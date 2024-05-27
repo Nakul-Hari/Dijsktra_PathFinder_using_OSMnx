@@ -72,4 +72,27 @@ You can customize the script's behavior by adjusting the following parameters in
 
 You can find an example of how to use this script in the [Example](/example) directory. It includes sample input and output.
 
+### Result Comparison
+
+#### Result from Script:
+
+Result 1:
+
+![Result 1](Result1.jpg)
+
+Result 2:
+
+![Result 2](Result2.jpg)
+
+#### Result from Google Maps:
+
+GMap Result 1:
+
+![GMap Result 1](GMap_Result1.jpg)
+
+GMap Result 2:
+
+![GMap Result 2](GMap_Result2.jpg)
+
+
 
